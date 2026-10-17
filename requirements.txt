@@ -1,0 +1,16 @@
+TradeWise/
+├── app/
+├── data/
+├── src/
+├── tests/
+├── README.md
+└── requirements.txt
+
+
+pandas
+numpy
+yfinance
+matplotlib
+plotly
+streamlit
+pytest
